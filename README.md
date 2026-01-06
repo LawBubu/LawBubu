@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my repository. I currently only have repositories that I have used to learn new coding languages and new techniques.
+
 <!--
 **LawBubu/LawBubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
